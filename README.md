@@ -14,7 +14,7 @@
     <br><br>
 </div>
 
-<img width="1512" alt="Screenshot 2023-10-14 at 5 51 25 PM" src="https://github.com/roskzhu/CollaboraCart/assets/66566975/7a5b5672-b9c0-4675-abb6-baab430a25b3">
+![collaboracart](https://github.com/ericcxie/CollaboraCart/assets/66566975/7b53eaed-26d0-4b26-bc16-2d8edefe45fc)
 
 
 ## What is CollaboraCart?
@@ -57,5 +57,5 @@ _(localhost:3000 by default)_
 1. `npm install`
 1. `npm start`
 
-### Preview
-<img src="https://github.com/ericcxie/OptiWealth/assets/66566975/450e0bc0-4d73-4e5e-931e-cb5b4a30dc48" width="45%"></img> <img src="https://github.com/ericcxie/OptiWealth/assets/66566975/ab5512af-ebb6-493b-a778-84e7b3fd6d0d" width="45%"></img> <img src="https://github.com/ericcxie/OptiWealth/assets/66566975/38bb3f7a-9dd5-453f-b522-f732e8857717" width="45%"></img> <img src="https://github.com/ericcxie/OptiWealth/assets/66566975/dec3e907-e192-4118-a3d7-298d6af084f2" width="45%"></img> <img src="https://github.com/ericcxie/OptiWealth/assets/66566975/68acb3d6-d023-4a77-b350-bafdee0cb695" width="45%"></img> <img src="https://github.com/ericcxie/OptiWealth/assets/66566975/8eedb38d-2293-4ebd-882f-4f4faa4db2f2" width="45%"></img> 
+### Video Demo
+https://github.com/ericcxie/CollaboraCart/assets/66566975/9c84640d-9084-41d3-b916-bf85c7fb5274
