@@ -14,8 +14,7 @@
     <br><br>
 </div>
 
-![collaboracart](https://github.com/ericcxie/CollaboraCart/assets/66566975/7b53eaed-26d0-4b26-bc16-2d8edefe45fc)
-
+![github-collaboracart](https://github.com/ericcxie/CollaboraCart/assets/66566975/d2cf59ce-4664-4917-a6f0-f22e025894f1)
 
 ## What is CollaboraCart?
 
