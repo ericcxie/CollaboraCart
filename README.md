@@ -24,13 +24,6 @@ Small businesses often grapple with higher per-unit costs due to their lower vol
 
 By democratizing access to better pricing, CollaboraCart isn't just facilitating transactions—it's fostering a community of collaboration among small businesses.
 
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-- [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed for the frontend.
-- [Python](https://www.python.org/) and [pip](https://pip.pypa.io/en/stable/) installed for the backend.
-
 ## Architecture Overview
 ![CollaboraCart drawio](https://github.com/roskzhu/CollaboraCart/assets/66566975/00b4a0c1-fe95-4c7b-a4c6-9d9e6447abe1)
 
